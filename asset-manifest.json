@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gift-for-laura/static/css/main.7fe7e303.css",
-    "main.js": "/gift-for-laura/static/js/main.8f344c28.js",
+    "main.css": "/gift-for-laura/static/css/main.0eccfab8.css",
+    "main.js": "/gift-for-laura/static/js/main.5da04d86.js",
     "static/js/787.d4aba7ab.chunk.js": "/gift-for-laura/static/js/787.d4aba7ab.chunk.js",
     "index.html": "/gift-for-laura/index.html",
-    "main.7fe7e303.css.map": "/gift-for-laura/static/css/main.7fe7e303.css.map",
-    "main.8f344c28.js.map": "/gift-for-laura/static/js/main.8f344c28.js.map",
+    "main.0eccfab8.css.map": "/gift-for-laura/static/css/main.0eccfab8.css.map",
+    "main.5da04d86.js.map": "/gift-for-laura/static/js/main.5da04d86.js.map",
     "787.d4aba7ab.chunk.js.map": "/gift-for-laura/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fe7e303.css",
-    "static/js/main.8f344c28.js"
+    "static/css/main.0eccfab8.css",
+    "static/js/main.5da04d86.js"
   ]
 }
